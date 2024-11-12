@@ -1,7 +1,7 @@
 # Site Settings
-name: ThaiAGI
-title: ThaiAGI | A blog on AGI in Thai บทความภาษาไทยเกี่ยวกับ AGI (powered by ThaiKeras)!
-description: Blog นี้
+name: Ratthachat Blog on AGI
+title: บทความภาษาไทยเกี่ยวกับ AGI (powered by ThaiKeras Author)!
+description: Blog นี้เป็นส่วนขยายของ fb page (fb.me/thaikeras) เพื่อจะได้แสดงโพสต์ที่สวยขึ้นเมื่อมี code หรือ สมการคณิตศาสตร์ครับ
 tags:
   - blog
   - AI
@@ -18,23 +18,11 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
-
+email: thaikeras@gmail.com
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
+facebook_username: fb.me/thaikeras
 
 # Posts Settings
 show_time_bar: true
@@ -109,4 +97,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.0.0
