@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: ThaiAGI
+title: ThaiAGI | A blog on AGI in Thai บทความภาษาไทยเกี่ยวกับ AGI (powered by ThaiKeras)!
+description: Blog นี้
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - AI
+  - AGI
+  - Machine Learning
+  - Deep Learning
 show_hero: true
 menu:
   - title: Home
